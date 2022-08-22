@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="./angular.svg" height='25' width='25'>
 <!--
 **rswager83/rswager83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
