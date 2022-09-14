@@ -1,5 +1,5 @@
 # Hi there, my name is Ryan 👋 
-   I just completed my training at Career Foundry and believe it or not, an old dog can learn new tricks! I've run golf courses, built radar towers, created tons of garden landscapes and ponds, made handmade furniture and now, I can read and write code! Never stop learninng. Life is full of amazing things!
+   I just completed my Full Stack training at Career Foundry and believe it or not, an old dog can learn new tricks! I've run golf courses, built radar towers, created tons of garden landscapes and ponds, made handmade furniture and now, I can read and write code! Never stop learning. Life is full of amazing things!
    
     - 🌱 I’m currently learning about the mystics of web development!
     - 💬 Ask me about anything. At some point, we all need help with the craziness of life. And I'm always happy to help!!
