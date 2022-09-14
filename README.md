@@ -45,8 +45,8 @@
   <img src="https://profile-counter.glitch.me/rswager83/count.svg" alt="visit-counter"/> <br>
   <a href="https://twitter.com/rswags83" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
-  <a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="20" width="20" /></a>
-  <a href="https://dev.to/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="20" width="20" /></a>
+  <a href="https://stackoverflow.com/users/19997169/swags" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="20" width="20" /></a>
+  <a href="https://dev.to/rswager83" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="20" width="20" /></a>
   <a href="https://medium.com/rswags83" target="_blank"><img align="center" src="./imgs/medium.svg" alt="" height="20" width="20" /></a><br>
 </p>
 
