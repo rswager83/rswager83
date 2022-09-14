@@ -1,13 +1,35 @@
-### Hi there 👋
+# Hi there, my name is Ryan 👋 
+   I just completed my training at Career Foundry and believe it or not, an old dog can learn new tricks! I've run golf courses, built radar towers, created tons of garden landscapes and ponds, made handmade furniture and now, I can read and write code! Never stop learninng. Life is full of amazing things!
+   
+    - 🌱 I’m currently learning about the mystics of web development!
+    - 💬 Ask me about anything. At some point, we all need help with the craziness of life. And I'm always happy to help!!
+    - 📫 How to reach me: nanswaglen83@gmail.com
+    - ⚡ Fun fact: I love building things! Ask my wife, I always have a project going on!
+    
+<details>
+  <summary><b> Most Used Languages </b></summary>
+    <div align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rswager83&theme=dracula" alt="stats" /> 
+    </div>
+</details>
+
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;My+name+is+Ryan)](https://git.io/typing-svg)
+
+<br>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="quotes" />
 </p>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rswager83&theme=dracula" alt="stats" /> <br>
- 
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
+  
+</div>
+
+<!-- Footer --> 
+
 ---
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="javascript" width="50">
@@ -28,23 +50,4 @@
   <a href="https://medium.com/rswags83" target="_blank"><img align="center" src="./imgs/medium.svg" alt="" height="20" width="20" /></a><br>
 </p>
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
-<!--
-**rswager83/rswager83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- End of Footer -->
